@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Im a JavaScript developer who is passionate about tech. 
+Im currently more skilled in Front-End and plan to expand to a Full-Stack JavaScript Developer.
+Im currently learning Python in my free time.
